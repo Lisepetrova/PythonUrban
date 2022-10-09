@@ -6,4 +6,4 @@ def get_mean_green_index(list_index) -> float:
     
     return mean_index 
 
-print(mean_index) 
+print(get_mean_green_index(list_index)) 
